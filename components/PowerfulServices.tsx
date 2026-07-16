@@ -97,7 +97,7 @@ export default function PowerfulServices() {
             Powerful SMM Services for Fast Growth
           </h2>
           <p className="mt-4 text-sm leading-relaxed text-ink-soft sm:text-base">
-            One panel, every platform. Pick where you want to grow and we'll
+            One panel, every platform. Pick where you want to grow and we&apos;ll
             handle the rest with fast, safe, and affordable delivery.
           </p>
         </motion.div>

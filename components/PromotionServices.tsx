@@ -58,7 +58,7 @@ export default function PromotionServices() {
           </h2>
           <p className="mt-4 text-sm leading-relaxed text-ink-soft sm:text-base">
             Choose from a wide range of affordable packages designed to help
-            you grow real engagement, faster — no matter where you're
+            you grow real engagement, faster — no matter whereyou&apos;re
             starting from.
           </p>
         </motion.div>

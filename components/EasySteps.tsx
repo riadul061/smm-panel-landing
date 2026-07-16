@@ -42,7 +42,7 @@ export default function EasySteps() {
             Easy Steps to Social Media Growth By HQ PROMO
           </h2>
           <p className="mt-4 text-sm leading-relaxed text-ink-soft sm:text-base">
-            Getting started takes less than five minutes. Here's exactly how
+            Getting started takes less than five minutes. Here&apos;s exactly how
             it works from sign up to seeing real results.
           </p>
         </motion.div>
